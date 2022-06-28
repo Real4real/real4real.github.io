@@ -89,8 +89,8 @@
 # Ignore everything
 /*
 /*/
-*/dist/
-!/dist/*
+*dist/
+!dist/*
 # hope his will work
 
 #But not these files...
