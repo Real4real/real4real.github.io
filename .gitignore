@@ -89,7 +89,7 @@
 # Ignore everything
 /*
 /*/
-*dist/
+*dist/*
 !dist/*
 # hope his will work
 
