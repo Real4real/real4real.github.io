@@ -90,7 +90,7 @@
 /*
 /*/
 !/dist/
-!.gitignore
+# !.gitignore
 
 #But not these files...
 # !.gitignore
