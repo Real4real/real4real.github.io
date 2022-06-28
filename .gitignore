@@ -87,7 +87,9 @@
 # *.swp
 
 # Ignore everything
-*
+# Ignore everything
+/*
+!dist/**
 # hope his will work
 
 #But not these files...
