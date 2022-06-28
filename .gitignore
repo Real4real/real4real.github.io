@@ -91,6 +91,7 @@
 /*/
 */dist/
 !/dist/*
+!testfile.txt
 # hope his will work
 
 #But not these files...
