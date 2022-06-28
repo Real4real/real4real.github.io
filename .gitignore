@@ -89,7 +89,7 @@
 # Ignore everything
 /*
 /*/
-!/dist/
+!dist/*
 # !.gitignore
 
 #But not these files...
